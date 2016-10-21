@@ -45,7 +45,7 @@ hr {
 
 .navbar {
     background-image: url("http://media.xperiencedays.com/ProdImages/Beer-Experience-Gifts.jpg"); 
-    background-size: 758px;
+    background-size: 50%;
     border: none;
 
  /*   background-image: url("http://st2.depositphotos.com/1182783/5748/v/450/depositphotos_57480749-Pouring-beer-into-the-glass.jpg");
@@ -278,4 +278,6 @@ footer p {
 	font-weight: bold;
 	color: white;
 }
-
+#newReview, #deleteReview{
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
